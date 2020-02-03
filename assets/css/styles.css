@@ -1,0 +1,27 @@
+.navbar-light .navbar-brand {
+  font-weight: bold;
+}
+
+.fa.fa-code-fork {
+  padding: 10px;
+}
+
+.navbar.navbar-light.navbar-expand-md.nav {
+  background: #fbfafa;
+}
+
+.welcome_heading {
+  font-size: 30px;
+  font-weight: 400;
+  padding-top: 40px;
+}
+
+.footer-clean {
+  position: absolute;
+  bottom: 0;
+  right: inherit;
+}
+
+.navbar.navbar-light.navbar-expand-md.fixed-bottom.bottom {
+}
+
